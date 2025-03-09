@@ -4,5 +4,5 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Python Programalama dili** alanında temel ve 
+**Python Programalama dili** alanında temel ve ileri seviye 
 
