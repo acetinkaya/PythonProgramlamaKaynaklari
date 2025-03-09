@@ -4,5 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Python Programalama 
-
+**Python Programalama dili** 
