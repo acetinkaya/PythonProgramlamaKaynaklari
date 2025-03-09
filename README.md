@@ -4,4 +4,5 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Python Programalama dili** 
+**Python Programalama dili** alanında temel ve 
+
