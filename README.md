@@ -23,7 +23,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. a
+1. Python ile Soru Çözüm Kitabı, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
