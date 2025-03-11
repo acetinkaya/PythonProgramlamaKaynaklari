@@ -18,11 +18,10 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
-|Python ile Soru Çözüm Kitabı| Python programlama dili üzerinde soru çözüm kitabıdır | 
+|Python ile Soru Çözüm Kitabı| Python programlama dili üzerinde soru çözüm kitabıdır | 978-625-406-636-8 | 
 
 
 ---
-978-625-406-636-8
 
 1. Eftâl Şehirli, Muhammed Kâmil Turan, Python ile Soru Çözüm Kitabı, Nobel Akademik Yayıncılık, Ankara, 2023.
 
