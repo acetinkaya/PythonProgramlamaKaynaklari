@@ -19,11 +19,12 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
 | Python ile Soru Çözüm Kitabı| Python programlama dili üzerinde soru çözüm kitabıdır | 978-625-406-636-8 | Nobel Akademik Yayıncılık | [ link ](https://www.nobelyayin.com/kitap_16696.html) | 1. |
-| Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları | Matlab uygulamalı optimizasyon yöntemi ders kitabıdır. | 978-625-397-483-1 | Nobel Akademik Yayıncılık | 
+| Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları | Matlab uygulamalı optimizasyon yöntemi ders kitabıdır. | 978-625-397-483-1 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/optimizasyon-yontemleri-ve-matlab-python-r-uygulamalari-20317.html) | 2. | 
 
 ---
 
 1. Eftâl Şehirli, Muhammed Kâmil Turan, Python ile Soru Çözüm Kitabı, Nobel Akademik Yayıncılık, Ankara, 2023.
+2. 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
