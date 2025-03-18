@@ -24,7 +24,8 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 ---
 
 1. Eftâl Şehirli, Muhammed Kâmil Turan, Python ile Soru Çözüm Kitabı, Nobel Akademik Yayıncılık, Ankara, 2023.
-2. 
+2. Prof. Dr. Özlem Türkşen, 
+
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
