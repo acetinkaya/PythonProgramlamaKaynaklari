@@ -19,7 +19,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
 | Python ile Soru Çözüm Kitabı| Python programlama dili üzerinde soru çözüm kitabıdır | 978-625-406-636-8 | Nobel Akademik Yayıncılık | [ link ](https://www.nobelyayin.com/kitap_16696.html) | 1. |
-| Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları 
+| Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları | Matlab uygulamalı 
 
 ---
 
